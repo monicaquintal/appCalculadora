@@ -1,13 +1,31 @@
 <div align="center">
-<h2>➕➖ App Calculadora ✖➗</h2>
-<h3>Seção 8: JavaScript</h3>
+<h1>➕➖ App Calculadora ✖➗</h1>
+<h2>Seção 8: JavaScript</h2>
 <p>Curso Desenvolvimento Web Completo 2022</p>
 </div>
 
 <div align="justify">
 
-## Proposta:
-
+# O Projeto:
 Criação do App Calculadora, primeiro projeto da Seção de JavaScript do Curso de Desenvolvimento Web 2022.
+</div>
+<br>
 
+<div align="center">
+<img alt="layout" src="./img/calc.png" width="80%">
+</div>
+<br>
 
+<div align="justify">
+
+# Desenvolvimento:
+
+## Aula 01: Criação da função responsável por receber os valores e as ações que podem ser realizadas.
+
+1. Criação da tag script ao final do body;
+
+2. Criação da função calcular();
+
+3. Definição dos parâmetros em cada um dos eventos onclick (valor, ação).
+
+</div>
