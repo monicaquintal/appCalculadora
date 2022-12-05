@@ -34,6 +34,12 @@ Criação do App Calculadora, primeiro projeto da Seção de JavaScript do Curso
 
 2. Definição da id "resultado" para o campo de saída de valores.
 
-3. 
+3. Realizar a concatenação (+=) de valores na id resultado, quando digitarmos os números para efetuar os cálculos.
+
+4. Trabalhar os botões que representam ações.
+
+  - botão clear (para limpar o visor);
+  - botões +, -, *, / e . (criar mais uma estrutura if...else; caso utilize qualquer uma destas ações, concatenar (+=) ao valor digitado);
+  - botão = - **Função nativa Eval**: submetendo a uma função um parâmetro que é uma string, será interpretada como uma função JS, fornecendo um resultado numérico.
 
 </div>
